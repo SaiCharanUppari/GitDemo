@@ -1,2 +1,2 @@
 Pushing is the opposite of fetching (with a few caveats). It lets you move a local branch to another repository, which serves as a convenient way to publish contributions. This is like svn commit, but it sends a series of commits instead of a single changeset.
-Password:kadlfhahdfkjas
+Password:
